@@ -1,0 +1,6 @@
+@keyframes cc{
+}
+#nm{
+    color: red;
+    animation: cc;
+}
